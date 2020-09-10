@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
+## ISE2012-Industrial Programming (산업시스템프로그래밍)
 
-You can use the [editor on GitHub](https://github.com/ISE2012/fall2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Instructor: Dr. Muhammad Syafrudin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course information
 
-### Markdown
+This course is intended to introduce the industrial and systems engineering students through problem solving and computer programming. Selected topics are covered through basic concept/theory and hands-on (practical) programming in the Python language version 3. The core material for this course includes but not limited to data types and expressions, loops and selection statements, strings, and input output (I/O), graphical user interface (GUI), database and web development, etc. Programming techniques covered in this course include but not limited to modularity, abstraction, top-down design, debugging, and testing. No prior programming experience is required. At the end of the course you will be expected to have the ability to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Develop problem-solving skills, especially in the use of computers to solve real-world problems
+- Learn basic programming skills, especially software development using the Python language
+- Learn how create, test, and execute Python code/program
+- Be prepared for further study in Industrial and Systems Engineering (Data Science/Mining, Industrial Artificial Intelligence, etc.)
+
+### Lecture
+
+Wed (수) at 3:00‐6:45 pm in online via Webex (Offline: 원흥관 F305 ERP실습실 (if possible))
+
+### Office hours
+
+Tue–Fri (10am–6pm) at 산업 AI 연구센터 동국대학교충무로영상센터 본관 825호.
+
+### Prerequisites
+
+No prior programming experience is required. This course will teach your from the very basic and gradually increase to the next level.
+
+### Software
+
+We will be using Python version 3 run on the computer lab (in ERP room) or on your own machine by installing the Anaconda Platform which includes Jupyter/IPython as well all packages that will be required for the course. Additionally, we plan to use AWS educate services to introduce the students about cloud environtment (such as how to do programming, collaboration and deploying the code in the cloud). More details will be provided in the class.
+
+### Course activities
+The course is structured in two different types of activities that repeat themselves each week and they are: 50% Lectures and 50% Labs which be held on Wed. 
+- Lectures material will be provided to introduce the students about basic concept or theory about each topic weekly. There will be quizzes at the end of each lecture to assess the understanding of the material that will help us identify gaps.
+- Labs are designed as hands-on activities and are useful to practice with problems similar to the homework.
+
+### Notes
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Course material can be downloaded in e-Class and please be aware, that we will not publicly release the homework assignments this year.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Supplementary textbook or e-book (optional)
 
-### Jekyll Themes
+- How to Think Like a Computer Scientist: Learning with Python 3 (RLE) by Peter Wentworth et al.
+The e-book is available here: Free version
+- Andrew N. Harrington, Hands-on Python Tutorial by Andrew N. Harrington
+The e-book is available here: Free version
+- Fundamentals of Python: First Programs, 2nd Edition by Kenneth A. Lambert
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISE2012/fall2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Schedule
 
-### Support or Contact
+| 주차(Week)|	강의내용(Class Topic & Contents)|	강의활동유형(Class Type)|
+| ------------- | ------------- | ------------- |
+| 1	|Course introduction and prospects	| 강의 (Lecture)|
+| 2	|Introduction to python and algorithmic thinking	|강의+실습 (Lecture + Practice)|
+| 3	|Variables and expressions|	강의+실습 (Lecture + Practice)|
+|4	|Comparison operators and decision structures	|강의+실습 (Lecture + Practice)|
+|5	|String and lists	|강의+실습 (Lecture + Practice)|
+|6	|For loops and while loops	|강의+실습 (Lecture + Practice)|
+|7	|Input and output (I/O) and text files	|강의+실습 (Lecture + Practice)|
+|8	|Mid exam	|시험 (Exam)|
+|9	|Functions	|강의+실습 (Lecture + Practice)|
+|10	|Classes and modules	|강의+실습 (Lecture + Practice)|
+|11	|Tuples and dictionaries	|강의+실습 (Lecture + Practice)|
+|12	|Simple graphics and image processing	|강의+실습 (Lecture + Practice)|
+|13	|Graphical user interface (GUI)	|강의+실습 (Lecture + Practice)|
+|14|	Database and web development	|강의+실습 (Lecture + Practice)|
+|15|	Final exam	|시험 (Exam)|
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Grading
+
+The final grade will be calculated using the following weights:
+
+| # | Final Grade Weight |
+| ------------- | ------------- |
+| Attendance | 15% |
+| Assignment(quiz/homework/weekly assignment) | 15% |
+| Mid exam (closed-book) | 30% |
+| Final exam (closed-book) | 40% |
+| **Total** | **100%** |
+
+### Assignment
+
+There will be a quiz/homework/weekly assignment to complete. Some of them will be due in a week and some of them in two weeks. You have the option to work and submit the homework in pairs for all the assignments except two which you will do individually. The homework are graded on a scale 0 to 100, where 100 is the highest grade.
+
+### Submitting an assignment
+
+Instructions for turning in assignments will be posted when the semester starts (in e-Class).
+
+### Getting help
+
+For questions about homework, course content, package installation, and after you have tried to troubleshoot yourselves, the process to get help is:
+
+Post the question in e-Class and hopefully your peers will answer. Note that in e-Class questions are visible to everyone.
+For private matters send an email to helpline: udin [at] dongguk [dot] edu.
+## Course Policies
+
+### Collaboration policy
+
+We encourage you to talk and discuss the assignments with your fellow students (and on e-Class), but you are not allowed to look at any other students assignment or code outside of your pair. Discussion is encouraged, copying is not allowed.
+
+### Late day policy
+
+Homework is due on Wednesday before class. Late submission are not allowed.
+
+### Communication to students
+
+Class announcements will be through e-Class. All homework and quizzes will be posted in e-Class. Also all feedback forms. Important note: make sure you have your settings set so you can receive emails from e-Class.
+
+### Academic honesty
+
+Ethical behavior is an important trait of a Data Scientist, from ethically handling data to attribution of code and work of others. Thus, in ISE we give a strong emphasis to Academic Honesty. As a student your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the homework and you should work on all the problems together.
